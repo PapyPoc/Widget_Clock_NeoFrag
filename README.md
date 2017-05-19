@@ -11,3 +11,6 @@ Possibilité d'affiché ou pas:
  
  
  Pour toutes question utilisez le forum https://neofr.ag/forum/10/widgets
+
+
+Lien Github : https://github.com/PapyPoc/Widget_Clock_NeoFrag
