@@ -10,4 +10,4 @@ Possibilité d'affiché ou pas:
   - les événements (nombre d'événement a affiché paramètrable)
  
  
- Pour toutes question ulitilsé le forum https://neofr.ag/forum/10/widgets
+ Pour toutes question utilisé le forum https://neofr.ag/forum/10/widgets
